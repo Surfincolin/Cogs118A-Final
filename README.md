@@ -7,11 +7,12 @@ Using dataset found at the [UCI Machine Learning Repository](https://archive.ics
 #### Data Sets:
 
 Adult: https://archive.ics.uci.edu/ml/datasets/Adult \
-MoCap Hand Postures: https://archive.ics.uci.edu/ml/datasets/MoCap+Hand+Postures \
 EEG Eye State: https://archive.ics.uci.edu/ml/datasets/EEG+Eye+State \
-*Covertype: https://archive.ics.uci.edu/ml/datasets/Covertype
+Covertype: https://archive.ics.uci.edu/ml/datasets/Covertype \
+\*~~MoCap Hand Postures: https://archive.ics.uci.edu/ml/datasets/MoCap+Hand+Postures~~
 
-*\* Pending*
+\* *MoCap data was abandoned, for lack of approach toward large amounts of missing features*
+
 
 #### Algorithms
 
