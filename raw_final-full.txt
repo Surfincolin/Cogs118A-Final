@@ -1,0 +1,330 @@
+========================
+Starting: SVC
+========================
+
+  Starting data set 1...
+  ~~~~~~~~~~~~~~~~~~~~~~~
+  Trial 1...
+  >acc=0.853, est=0.855, cfg={'C': 10, 'gamma': 0.01}
+  >acc=0.845, est=0.861, cfg={'C': 1000, 'gamma': 0.001}
+  >acc=0.873, est=0.854, cfg={'C': 100, 'gamma': 0.001}
+  >acc=0.840, est=0.861, cfg={'C': 1, 'gamma': 0.1}
+  >acc=0.861, est=0.858, cfg={'C': 10, 'gamma': 0.01}
+  Accuracy: 0.854 (0.012)
+  Training Master: {'C': 100, 'gamma': 0.001}
+  Check Acc on Entire set
+  Final Acc = 0.851 
+
+  Trial 2...
+  >acc=0.852, est=0.854, cfg={'C': 10, 'gamma': 0.01}
+  >acc=0.860, est=0.848, cfg={'C': 1000, 'gamma': 0.001}
+  >acc=0.851, est=0.853, cfg={'C': 1000, 'gamma': 0.001}
+  >acc=0.849, est=0.853, cfg={'C': 100, 'gamma': 0.001}
+  >acc=0.850, est=0.856, cfg={'C': 10, 'gamma': 0.01}
+  Accuracy: 0.852 (0.004)
+  Training Master: {'C': 1000, 'gamma': 0.001}
+  Check Acc on Entire set
+  Final Acc = 0.851 
+
+  Trial 3...
+  >acc=0.849, est=0.855, cfg={'C': 1000, 'gamma': 0.001}
+  >acc=0.874, est=0.848, cfg={'C': 1, 'gamma': 0.1}
+  >acc=0.841, est=0.853, cfg={'C': 100, 'gamma': 0.01}
+  >acc=0.849, est=0.852, cfg={'C': 100, 'gamma': 0.001}
+  >acc=0.848, est=0.851, cfg={'C': 100, 'gamma': 0.01}
+  Accuracy: 0.852 (0.011)
+  Training Master: {'C': 1, 'gamma': 0.1}
+  Check Acc on Entire set
+  Final Acc = 0.854 
+
+  Starting data set 2...
+  ~~~~~~~~~~~~~~~~~~~~~~~
+  Trial 1...
+  >acc=0.822, est=0.826, cfg={'C': 1000, 'gamma': 1.0}
+  >acc=0.838, est=0.814, cfg={'C': 1000, 'gamma': 1.0}
+  >acc=0.826, est=0.817, cfg={'C': 100, 'gamma': 1.0}
+  >acc=0.829, est=0.819, cfg={'C': 1000, 'gamma': 1.0}
+  >acc=0.835, est=0.820, cfg={'C': 1000, 'gamma': 1.0}
+  Accuracy: 0.830 (0.006)
+  Training Master: {'C': 1000, 'gamma': 1.0}
+  Check Acc on Entire set
+  Final Acc = 0.842 
+
+  Trial 2...
+  >acc=0.831, est=0.816, cfg={'C': 1000, 'gamma': 1.0}
+  >acc=0.848, est=0.808, cfg={'C': 100, 'gamma': 1.0}
+  >acc=0.809, est=0.812, cfg={'C': 100, 'gamma': 1.0}
+  >acc=0.844, est=0.818, cfg={'C': 1000, 'gamma': 1.0}
+  >acc=0.819, est=0.819, cfg={'C': 1000, 'gamma': 1.0}
+  Accuracy: 0.830 (0.015)
+  Training Master: {'C': 100, 'gamma': 1.0}
+  Check Acc on Entire set
+  Final Acc = 0.842 
+
+  Trial 3...
+  >acc=0.862, est=0.813, cfg={'C': 1000, 'gamma': 1.0}
+  >acc=0.832, est=0.828, cfg={'C': 1000, 'gamma': 1.0}
+  >acc=0.826, est=0.823, cfg={'C': 1000, 'gamma': 1.0}
+  >acc=0.835, est=0.828, cfg={'C': 1000, 'gamma': 1.0}
+  >acc=0.830, est=0.820, cfg={'C': 1000, 'gamma': 1.0}
+  Accuracy: 0.837 (0.013)
+  Training Master: {'C': 1000, 'gamma': 1.0}
+  Check Acc on Entire set
+  Final Acc = 0.853 
+
+  Starting data set 3...
+  ~~~~~~~~~~~~~~~~~~~~~~~
+  Trial 1...
+  >acc=0.805, est=0.796, cfg={'C': 10, 'gamma': 0.1}
+  >acc=0.784, est=0.800, cfg={'C': 10, 'gamma': 0.1}
+  >acc=0.811, est=0.799, cfg={'C': 10, 'gamma': 0.1}
+  >acc=0.797, est=0.798, cfg={'C': 10, 'gamma': 0.1}
+  >acc=0.804, est=0.794, cfg={'C': 10, 'gamma': 0.1}
+  Accuracy: 0.800 (0.009)
+  Training Master: {'C': 10, 'gamma': 0.1}
+  Check Acc on Entire set
+  Final Acc = 0.802 
+
+  Trial 2...
+  >acc=0.794, est=0.801, cfg={'C': 10, 'gamma': 0.1}
+  >acc=0.796, est=0.795, cfg={'C': 10, 'gamma': 0.1}
+  >acc=0.793, est=0.808, cfg={'C': 10, 'gamma': 0.1}
+  >acc=0.815, est=0.799, cfg={'C': 10, 'gamma': 0.1}
+  >acc=0.797, est=0.789, cfg={'C': 100, 'gamma': 0.01}
+  Accuracy: 0.799 (0.008)
+  Training Master: {'C': 10, 'gamma': 0.1}
+  Check Acc on Entire set
+  Final Acc = 0.804 
+
+  Trial 3...
+  >acc=0.802, est=0.787, cfg={'C': 10, 'gamma': 0.1}
+  >acc=0.789, est=0.790, cfg={'C': 1000, 'gamma': 0.01}
+  >acc=0.786, est=0.790, cfg={'C': 1000, 'gamma': 0.01}
+  >acc=0.785, est=0.784, cfg={'C': 1, 'gamma': 0.1}
+  >acc=0.796, est=0.784, cfg={'C': 10, 'gamma': 0.1}
+  Accuracy: 0.792 (0.006)
+  Training Master: {'C': 10, 'gamma': 0.1}
+  Check Acc on Entire set
+  Final Acc = 0.807 
+
+========================
+Starting: RandomForestClassifier
+========================
+
+  Starting data set 1...
+  ~~~~~~~~~~~~~~~~~~~~~~~
+  Trial 1...
+  >acc=0.861, est=0.852, cfg={'max_depth': 10, 'max_features': 36, 'n_estimators': 100}
+  >acc=0.853, est=0.848, cfg={'max_depth': 10, 'max_features': 18, 'n_estimators': 100}
+  >acc=0.854, est=0.849, cfg={'max_depth': 10, 'max_features': 36, 'n_estimators': 100}
+  >acc=0.825, est=0.853, cfg={'max_depth': 10, 'max_features': 36, 'n_estimators': 100}
+  >acc=0.867, est=0.850, cfg={'max_depth': 10, 'max_features': 36, 'n_estimators': 100}
+  Accuracy: 0.852 (0.014)
+  Training Master: {'max_depth': 10, 'max_features': 36, 'n_estimators': 100}
+  Check Acc on Entire set
+  Final Acc = 0.857 
+
+  Trial 2...
+  >acc=0.862, est=0.852, cfg={'max_depth': 10, 'max_features': 36, 'n_estimators': 100}
+  >acc=0.847, est=0.855, cfg={'max_depth': 10, 'max_features': 20, 'n_estimators': 100}
+  >acc=0.861, est=0.851, cfg={'max_depth': 10, 'max_features': 36, 'n_estimators': 100}
+  >acc=0.852, est=0.852, cfg={'max_depth': 100, 'max_features': 20, 'n_estimators': 100}
+  >acc=0.845, est=0.853, cfg={'max_depth': 10, 'max_features': 36, 'n_estimators': 100}
+  Accuracy: 0.853 (0.007)
+  Training Master: {'max_depth': 10, 'max_features': 36, 'n_estimators': 100}
+  Check Acc on Entire set
+  Final Acc = 0.859 
+
+  Trial 3...
+  >acc=0.886, est=0.859, cfg={'max_depth': 10, 'max_features': 20, 'n_estimators': 100}
+  >acc=0.844, est=0.870, cfg={'max_depth': 10, 'max_features': 20, 'n_estimators': 100}
+  >acc=0.865, est=0.864, cfg={'max_depth': 10, 'max_features': 20, 'n_estimators': 100}
+  >acc=0.853, est=0.865, cfg={'max_depth': 10, 'max_features': 36, 'n_estimators': 100}
+  >acc=0.870, est=0.857, cfg={'max_depth': 10, 'max_features': 16, 'n_estimators': 100}
+  Accuracy: 0.864 (0.014)
+  Training Master: {'max_depth': 10, 'max_features': 20, 'n_estimators': 100}
+  Check Acc on Entire set
+  Final Acc = 0.856 
+
+  Starting data set 2...
+  ~~~~~~~~~~~~~~~~~~~~~~~
+  Trial 1...
+  >acc=0.896, est=0.883, cfg={'max_depth': 100, 'max_features': 8, 'n_estimators': 100}
+  >acc=0.892, est=0.882, cfg={'max_depth': None, 'max_features': 5, 'n_estimators': 100}
+  >acc=0.894, est=0.888, cfg={'max_depth': 100, 'max_features': 'sqrt', 'n_estimators': 100}
+  >acc=0.904, est=0.884, cfg={'max_depth': None, 'max_features': 'sqrt', 'n_estimators': 100}
+  >acc=0.864, est=0.886, cfg={'max_depth': None, 'max_features': 5, 'n_estimators': 100}
+  Accuracy: 0.890 (0.014)
+  Training Master: {'max_depth': None, 'max_features': 'sqrt', 'n_estimators': 100}
+  Check Acc on Entire set
+  Final Acc = 0.891 
+
+  Trial 2...
+  >acc=0.869, est=0.878, cfg={'max_depth': 100, 'max_features': 5, 'n_estimators': 100}
+  >acc=0.882, est=0.884, cfg={'max_depth': 100, 'max_features': 5, 'n_estimators': 100}
+  >acc=0.881, est=0.877, cfg={'max_depth': 100, 'max_features': 'sqrt', 'n_estimators': 100}
+  >acc=0.901, est=0.875, cfg={'max_depth': 100, 'max_features': 5, 'n_estimators': 100}
+  >acc=0.891, est=0.882, cfg={'max_depth': None, 'max_features': 5, 'n_estimators': 100}
+  Accuracy: 0.885 (0.011)
+  Training Master: {'max_depth': 100, 'max_features': 5, 'n_estimators': 100}
+  Check Acc on Entire set
+  Final Acc = 0.901 
+
+  Trial 3...
+  >acc=0.878, est=0.887, cfg={'max_depth': 100, 'max_features': 5, 'n_estimators': 100}
+  >acc=0.901, est=0.880, cfg={'max_depth': None, 'max_features': 5, 'n_estimators': 100}
+  >acc=0.916, est=0.878, cfg={'max_depth': None, 'max_features': 5, 'n_estimators': 100}
+  >acc=0.871, est=0.885, cfg={'max_depth': 100, 'max_features': 5, 'n_estimators': 100}
+  >acc=0.883, est=0.886, cfg={'max_depth': None, 'max_features': 8, 'n_estimators': 100}
+  Accuracy: 0.890 (0.016)
+  Training Master: {'max_depth': None, 'max_features': 5, 'n_estimators': 100}
+  Check Acc on Entire set
+  Final Acc = 0.902 
+
+  Starting data set 3...
+  ~~~~~~~~~~~~~~~~~~~~~~~
+  Trial 1...
+  >acc=0.801, est=0.791, cfg={'max_depth': None, 'max_features': 'sqrt', 'n_estimators': 100}
+  >acc=0.818, est=0.795, cfg={'max_depth': None, 'max_features': 18, 'n_estimators': 100}
+  >acc=0.797, est=0.804, cfg={'max_depth': None, 'max_features': 20, 'n_estimators': 100}
+  >acc=0.794, est=0.806, cfg={'max_depth': None, 'max_features': 36, 'n_estimators': 100}
+  >acc=0.805, est=0.801, cfg={'max_depth': 100, 'max_features': 18, 'n_estimators': 100}
+  Accuracy: 0.803 (0.008)
+  Training Master: {'max_depth': None, 'max_features': 18, 'n_estimators': 100}
+
+  Check Acc on Entire set
+  Final Acc = 0.822 
+
+  Trial 2...
+  >acc=0.810, est=0.816, cfg={'max_depth': None, 'max_features': 18, 'n_estimators': 100}
+  >acc=0.830, est=0.803, cfg={'max_depth': None, 'max_features': 2, 'n_estimators': 100}
+  >acc=0.808, est=0.812, cfg={'max_depth': None, 'max_features': 16, 'n_estimators': 100}
+  >acc=0.815, est=0.812, cfg={'max_depth': 100, 'max_features': 36, 'n_estimators': 100}
+  >acc=0.813, est=0.812, cfg={'max_depth': 100, 'max_features': 8, 'n_estimators': 100}
+  Accuracy: 0.815 (0.008)
+  Training Master: {'max_depth': None, 'max_features': 2, 'n_estimators': 100}
+  Check Acc on Entire set
+  Final Acc = 0.813 
+
+  Trial 3...
+  >acc=0.832, est=0.810, cfg={'max_depth': None, 'max_features': 16, 'n_estimators': 100}
+  >acc=0.797, est=0.821, cfg={'max_depth': 100, 'max_features': 20, 'n_estimators': 100}
+  >acc=0.819, est=0.814, cfg={'max_depth': 100, 'max_features': 16, 'n_estimators': 100}
+  >acc=0.827, est=0.816, cfg={'max_depth': None, 'max_features': 8, 'n_estimators': 100}
+  >acc=0.806, est=0.813, cfg={'max_depth': 100, 'max_features': 16, 'n_estimators': 100}
+  Accuracy: 0.816 (0.013)
+  Training Master: {'max_depth': None, 'max_features': 16, 'n_estimators': 100}
+  Check Acc on Entire set
+  Final Acc = 0.821 
+
+========================
+Starting: GaussianNB
+========================
+
+  Starting data set 1...
+  ~~~~~~~~~~~~~~~~~~~~~~~
+  Trial 1...
+  >acc=0.590, est=0.576, cfg={'var_smoothing': 1e-05}
+  >acc=0.590, est=0.593, cfg={'var_smoothing': 1e-05}
+  >acc=0.587, est=0.572, cfg={'var_smoothing': 1e-05}
+  >acc=0.557, est=0.593, cfg={'var_smoothing': 1e-05}
+  >acc=0.631, est=0.577, cfg={'var_smoothing': 1e-05}
+  Accuracy: 0.591 (0.024)
+  Training Master: {'var_smoothing': 1e-05}
+  Check Acc on Entire set
+  Final Acc = 0.607 
+
+  Trial 2...
+  >acc=0.549, est=0.543, cfg={'var_smoothing': 1e-05}
+  >acc=0.555, est=0.549, cfg={'var_smoothing': 1e-05}
+  >acc=0.555, est=0.546, cfg={'var_smoothing': 1e-05}
+  >acc=0.539, est=0.537, cfg={'var_smoothing': 1e-05}
+  >acc=0.562, est=0.539, cfg={'var_smoothing': 1e-05}
+  Accuracy: 0.552 (0.008)
+  Training Master: {'var_smoothing': 1e-05}
+  Check Acc on Entire set
+  Final Acc = 0.564 
+
+  Trial 3...
+  >acc=0.567, est=0.550, cfg={'var_smoothing': 1e-05}
+  >acc=0.575, est=0.564, cfg={'var_smoothing': 1e-05}
+  >acc=0.589, est=0.574, cfg={'var_smoothing': 1e-05}
+  >acc=0.564, est=0.591, cfg={'var_smoothing': 1e-05}
+  >acc=0.567, est=0.546, cfg={'var_smoothing': 1e-05}
+  Accuracy: 0.572 (0.009)
+  Training Master: {'var_smoothing': 1e-05}
+  Check Acc on Entire set
+  Final Acc = 0.593 
+
+  Starting data set 2...
+  ~~~~~~~~~~~~~~~~~~~~~~~
+  Trial 1...
+  >acc=0.486, est=0.504, cfg={'var_smoothing': 1e-07}
+  >acc=0.606, est=0.625, cfg={'var_smoothing': 1e-07}
+  >acc=0.481, est=0.501, cfg={'var_smoothing': 1e-06}
+  >acc=0.470, est=0.510, cfg={'var_smoothing': 1e-07}
+  >acc=0.469, est=0.518, cfg={'var_smoothing': 1e-07}
+  Accuracy: 0.502 (0.052)
+  Training Master: {'var_smoothing': 1e-07}
+  Check Acc on Entire set
+  Final Acc = 0.473 
+
+  Trial 2...
+  >acc=0.441, est=0.444, cfg={'var_smoothing': 1e-06}
+  >acc=0.551, est=0.546, cfg={'var_smoothing': 1e-07}
+  >acc=0.436, est=0.464, cfg={'var_smoothing': 1e-05}
+  >acc=0.445, est=0.464, cfg={'var_smoothing': 1e-05}
+  >acc=0.427, est=0.468, cfg={'var_smoothing': 1e-06}
+  Accuracy: 0.460 (0.046)
+  Training Master: {'var_smoothing': 1e-07}
+  Check Acc on Entire set
+  Final Acc = 0.453 
+
+  Trial 3...
+  >acc=0.489, est=0.499, cfg={'var_smoothing': 1e-06}
+  >acc=0.478, est=0.496, cfg={'var_smoothing': 1e-07}
+  >acc=0.575, est=0.593, cfg={'var_smoothing': 1e-07}
+  >acc=0.478, est=0.499, cfg={'var_smoothing': 1e-07}
+  >acc=0.452, est=0.493, cfg={'var_smoothing': 1e-06}
+  Accuracy: 0.494 (0.042)
+  Training Master: {'var_smoothing': 1e-07}
+  Check Acc on Entire set
+  Final Acc = 0.473 
+
+  Starting data set 3...
+  ~~~~~~~~~~~~~~~~~~~~~~~
+  Trial 1...
+  >acc=0.607, est=0.617, cfg={'var_smoothing': 1e-05}
+  >acc=0.643, est=0.617, cfg={'var_smoothing': 1e-05}
+  >acc=0.620, est=0.624, cfg={'var_smoothing': 1e-05}
+  >acc=0.626, est=0.625, cfg={'var_smoothing': 1e-05}
+  >acc=0.617, est=0.620, cfg={'var_smoothing': 1e-05}
+  Accuracy: 0.623 (0.012)
+  Training Master: {'var_smoothing': 1e-05}
+  Check Acc on Entire set
+  Final Acc = 0.623 
+
+  Trial 2...
+  >acc=0.620, est=0.623, cfg={'var_smoothing': 1e-06}
+  >acc=0.662, est=0.638, cfg={'var_smoothing': 1e-05}
+  >acc=0.606, est=0.629, cfg={'var_smoothing': 1e-05}
+  >acc=0.609, est=0.627, cfg={'var_smoothing': 1e-06}
+  >acc=0.634, est=0.620, cfg={'var_smoothing': 1e-05}
+  Accuracy: 0.626 (0.020)
+  Training Master: {'var_smoothing': 1e-05}
+  Check Acc on Entire set
+  Final Acc = 0.628 
+
+  Trial 3...
+  >acc=0.665, est=0.645, cfg={'var_smoothing': 1e-05}
+  >acc=0.664, est=0.651, cfg={'var_smoothing': 1e-05}
+  >acc=0.604, est=0.652, cfg={'var_smoothing': 1e-05}
+  >acc=0.626, est=0.633, cfg={'var_smoothing': 1e-05}
+  >acc=0.677, est=0.666, cfg={'var_smoothing': 1e-05}
+  Accuracy: 0.647 (0.028)
+  Training Master: {'var_smoothing': 1e-05}
+  Check Acc on Entire set
+  Final Acc = 0.649 
+
+CPU times: user 8min 17s, sys: 9.5 s, total: 8min 27s
+Wall time: 38min 23s
